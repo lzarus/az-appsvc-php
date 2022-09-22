@@ -1,1 +1,6 @@
-# ubuntu-az-appsvc-lamp
+#  az-appsvc-php
+php
+composer
+cron
+redis
+memcached
