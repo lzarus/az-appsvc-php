@@ -11,7 +11,7 @@
 *.sln.docstates
 docker-config/*
 docker-configuration/*
-Dockerfile*
+Dockerfile.*
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
